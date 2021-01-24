@@ -1,0 +1,26 @@
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.exe
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.deps.json
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.runtimeconfig.json
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.runtimeconfig.dev.json
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.dll
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.pdb
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.AssemblyInfoInputs.cache
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.AssemblyInfo.cs
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.dll
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.pdb
+C:\Users\Maxim\source\repos\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.genruntimeconfig.cache
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.exe
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.deps.json
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.runtimeconfig.json
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.runtimeconfig.dev.json
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.dll
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\bin\Debug\netcoreapp3.1\Lab3_2.pdb
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.csprojAssemblyReference.cache
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.AssemblyInfoInputs.cache
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.AssemblyInfo.cs
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.dll
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.pdb
+C:\Users\sasha\Desktop\OOP-Lab3-main\OOP Lab 3\Lab3_2\Lab3_2\obj\Debug\netcoreapp3.1\Lab3_2.genruntimeconfig.cache
